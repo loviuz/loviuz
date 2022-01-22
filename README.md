@@ -12,3 +12,5 @@
 
 ## 📖 Blog
 - https://noblogo.org/cybermind/home
+
+![Attività github](https://github-readme-stats.vercel.app/api?username=loviuz&show_icons=true)
