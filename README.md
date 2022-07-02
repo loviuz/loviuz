@@ -11,6 +11,7 @@
 - https://tryhackme.com/p/loviuz/
 
 ## 📖 Blog
+- https://loviuz.me
 - https://noblogo.org/cybermind/home
 
 
