@@ -2,9 +2,12 @@
 
 💡 ideatore di [OpenSTAManager](https://github.com/devcode-it/openstamanager)
 
-💻 appassionato di **hacking** e **cybersecurity**
+🐧 Referente di [Italian Linux Society](https://ils.org) di Este (PD): https://este.linux.it
+
 
 ⌨️ sostenitore del **software libero**
+
+💻 appassionato di **hacking** e **cybersecurity**
 
 ## 💻 Altri repository
 - https://gitea.it/loviuz
@@ -16,6 +19,3 @@
 
 ## 📖 Blog
 - https://loviuz.me
-
-
-![Attività github](https://github-readme-stats.vercel.app/api?username=loviuz&show_icons=true&theme=tokyonight)
