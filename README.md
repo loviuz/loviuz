@@ -17,4 +17,4 @@
 - https://tryhackme.com/p/loviuz/
 
 ## 📖 Blog
-- https://loviuz.me
+- https://loviuz.it
