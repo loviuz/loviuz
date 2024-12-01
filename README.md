@@ -4,6 +4,8 @@
 
 🐧 Referente di [Italian Linux Society](https://ils.org) di Este (PD): https://este.linux.it
 
+🐧 Direttore di [Italian Linux Society](https://ils.org) nazionale: https://ils.org
+
 ⌨️ Sostenitore del **software libero**
 
 💻 Appassionato di **hacking** e **cibersicurezza**
